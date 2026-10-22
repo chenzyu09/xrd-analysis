@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+xrd_output/
+.venv/
