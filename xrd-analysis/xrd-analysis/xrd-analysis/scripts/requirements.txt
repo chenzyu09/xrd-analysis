@@ -1,6 +1,0 @@
-numpy>=1.21
-scipy>=1.7
-matplotlib>=3.6
-openpyxl>=3.0
-gemmi>=0.6        # only needed for CIF references
-# streamlit>=1.30 # only needed for the browser interface (app.py)
